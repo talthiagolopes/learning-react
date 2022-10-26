@@ -3,22 +3,22 @@ Learning React \o/
 
 Install react
 
-` npm install --save react `
-` npm install --save react-dom `
+` npm install --save react `  
+` npm install --save react-dom `  
 
 Install dev dependencies using yarn
 
-` yarn add --dev parcel-bundler `
-` yarn add --dev eslint `
-` yarn add --dev eslint-config-airbnb `
-` yarn add --dev lint-staged `
-` yarn add --dev husky `
+` yarn add --dev parcel-bundler `  
+` yarn add --dev eslint `  
+` yarn add --dev eslint-config-airbnb `  
+` yarn add --dev lint-staged `  
+` yarn add --dev husky `  
 
-Watch mode (default access: http://localhost:1234/)
-` parcel ./src/index.html `
+Watch mode (default access: http://localhost:1234/)  
+` parcel ./src/index.html `  
 
-Create eslintrc.json
-` ./node_modules/.bin/eslint --init `
+Create eslintrc.json  
+` ./node_modules/.bin/eslint --init `  
 
 
 
