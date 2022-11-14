@@ -1,6 +1,8 @@
 # Learning React
 Learning React \o/
 
+Introduction
+
 Install react
 
 ` npm install --save react `  
@@ -22,4 +24,13 @@ Create eslintrc.json
 
 
 
-Repository reference: https://github.com/AlvYuste/react-course-wishlist
+Repository reference: https://github.com/AlvYuste/react-course-wishlist  
+
+
+React base using create-react-app  
+
+` npm install -g create-react-app `  
+
+
+
+Repository reference: https://github.com/OpenWebinarsNet/curso-react-app-base    
